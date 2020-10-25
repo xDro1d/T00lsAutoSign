@@ -61,7 +61,7 @@ def t00ls_login(u_name, u_pass, q_num, q_ans):
 
 def t00ls_sign(t00ls_hash, t00ls_cookies):
     """
-    t00ls 签到函数
+    t00ls 签到函数 
     :param t00ls_hash: 签到要用的 hash
     :param t00ls_cookies: 登录后的 Cookies
     :return: 签到后的 JSON 数据
